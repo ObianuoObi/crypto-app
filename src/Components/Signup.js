@@ -17,7 +17,7 @@ const Signup = () => {
 
              <div className='right'>
                 <h2>Earn passive income with crypto.</h2>
-                <p>Earn up to 12% annual rewards on 30+ digital assets. Simply hold your asset in the App</p>
+                <p>Earn up to 12% annual rewards on 30+ digital assets. Simply hold your asset in the App to automatically earn rewards at the end of each month with no limits</p>
                 <div className='input-container'>
                     <input type='email' placeholder='Enter for email'/>
                     <button className='btn'>Learn More</button>
